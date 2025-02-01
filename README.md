@@ -3,8 +3,6 @@
 - 🤔 Explorando o mundo da tecnologia e dos dados!
 - 🎓 Estudando Engenharia de Computação.
 - 🌱 Aprendendo mais sobre Python, DataBricks e outras ferramentas de engenharia de dados.
-- 💼 Nível de Cargo desejado: Estágio, Trainee ou Júnior.
-
 
 ## Minhas Skills
 
@@ -18,12 +16,9 @@
 ![Scikit-Learn](https://img.shields.io/badge/scikit%20learn-3c3c3c?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
 
 
-**Utilidades**
+**Outras ferramentas**
 
 ![Postman](https://img.shields.io/badge/Postman-3c3c3c?style=for-the-badge&logo=Postman&logoColor=FF6C37)
-
-**DevOps**
-
 ![Git](https://img.shields.io/badge/Git-3c3c3c?style=for-the-badge&logo=git&logoColor=E34F26)
 ![Docker](https://img.shields.io/badge/Docker-3c3c3c?style=for-the-badge&logo=docker&logoColor=2496ED)
 
