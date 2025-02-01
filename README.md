@@ -15,6 +15,7 @@
 ![PostgresSQL](https://img.shields.io/badge/PostgreSQL-3C3C3C?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-3C3C3C?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3c3c3c?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit%20learn-3c3c3c?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
 
 
 **Utilidades**
