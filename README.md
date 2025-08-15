@@ -1,8 +1,8 @@
 ## Sobre mim
 
-- 🤔 Explorando o mundo da tecnologia e dos dados!
-- 🎓 Estudando Engenharia de Computação.
-- 🌱 Aprendendo mais sobre Python, DataBricks e outras ferramentas de engenharia de dados.
+Sou estudante de Engenharia de Computação (6º semestre). Tenho conhecimentos em *desenvolvimento de software* no ecossistema JavaScript/TypeScript — incluindo Node.js, TypeScript, Docker, configuração de lint/prettier, testes e integração de APIs — adquiridos em projetos acadêmicos e pessoais. Paralelamente, atuo na área de Dados e Business Intelligence, com experiência em Python (ETL e scripts de análise), consultas com SQL, Excel (análises e validação) e Power BI (dashboards). 
+
+Atualmente trabalho como Analista de BI Júnior, função na qual contribuo com atividades de governança de dados para garantir a catalogação, integridade e rastreabilidade de ativos de dados.
 
 ## Minhas Skills
 
@@ -21,7 +21,6 @@
 ![Postman](https://img.shields.io/badge/Postman-3c3c3c?style=for-the-badge&logo=Postman&logoColor=FF6C37)
 ![Git](https://img.shields.io/badge/Git-3c3c3c?style=for-the-badge&logo=git&logoColor=E34F26)
 ![Docker](https://img.shields.io/badge/Docker-3c3c3c?style=for-the-badge&logo=docker&logoColor=2496ED)
-
 <br/>
 
 ## Onde me encontrar
